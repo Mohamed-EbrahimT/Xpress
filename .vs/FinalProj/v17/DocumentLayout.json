@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\mbdra\\finalproj\\finalproj\\data\\eccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\data\\eccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\mbdra\\finalproj\\finalproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\mbdra\\finalproj\\finalproj\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\mbdra\\finalproj\\finalproj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\mbdra\\finalproj\\finalproj\\finalproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\finalproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\Models\\Review.cs",
+              "RelativeToolTip": "FinalProj\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:42:10.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\Models\\User.cs",
+              "RelativeToolTip": "FinalProj\\Models\\User.cs",
+              "ViewState": "AgIAAA8AAABglpmZmZkvwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:41:57.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ECContext.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\Data\\ECContext.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Data\\ECContext.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\Data\\ECContext.cs",
+              "RelativeToolTip": "FinalProj\\Data\\ECContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:41:44.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalProj\\appsettings.json",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\appsettings.json",
+              "RelativeToolTip": "FinalProj\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T22:36:49.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinalProj.csproj",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\FinalProj.csproj",
+              "RelativeDocumentMoniker": "FinalProj\\FinalProj.csproj",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\FinalProj.csproj",
+              "RelativeToolTip": "FinalProj\\FinalProj.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T22:33:43.64Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
