@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\",
   "Documents": [
     {
@@ -21,6 +22,56 @@
     {
       "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\mbdra\\finalproj\\finalproj\\finalproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\finalproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+=======
+  "WorkspaceRootPath": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\finalproj\\finalproj\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\finalproj\\finalproj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\finalproj\\finalproj\\migrations\\eccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\migrations\\eccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\finalproj\\finalproj\\migrations\\20250501170104_addpass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\migrations\\20250501170104_addpass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\finalproj\\finalproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\finalproj\\finalproj\\data\\eccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\data\\eccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\finalproj\\finalproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\Migrations\\20250501172140_Update_Mandatories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\finalproj\\finalproj\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\finalproj\\finalproj\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\finalproj\\finalproj\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|c:\\users\\maeh_\\onedrive\\desktop\\finalproj\\finalproj\\migrations\\20250501170104_addpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86143A82-0890-4FD0-8B11-BDC79E57CC46}|FinalProj\\FinalProj.csproj|solutionrelative:finalproj\\migrations\\20250501170104_addpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> master
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +81,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 247,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
+=======
+          "SelectedChildIndex": 9,
+>>>>>>> master
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +94,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\Models\\Review.cs",
               "RelativeDocumentMoniker": "FinalProj\\Models\\Review.cs",
@@ -47,10 +103,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T22:42:10.06Z"
+=======
+              "Title": "ECContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Migrations\\ECContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Migrations\\ECContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Migrations\\ECContextModelSnapshot.cs",
+              "RelativeToolTip": "FinalProj\\Migrations\\ECContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:33:08.994Z"
+>>>>>>> master
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\Models\\User.cs",
               "RelativeDocumentMoniker": "FinalProj\\Models\\User.cs",
@@ -84,10 +151,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-08T22:36:49.639Z"
+=======
+              "Title": "20250501170104_AddPass.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Migrations\\20250501170104_AddPass.Designer.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Migrations\\20250501170104_AddPass.Designer.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Migrations\\20250501170104_AddPass.Designer.cs",
+              "RelativeToolTip": "FinalProj\\Migrations\\20250501170104_AddPass.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:32:53.748Z"
+>>>>>>> master
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< HEAD
               "Title": "FinalProj.csproj",
               "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\FinalProj.csproj",
               "RelativeDocumentMoniker": "FinalProj\\FinalProj.csproj",
@@ -96,6 +174,125 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-08T22:33:43.64Z"
+=======
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Program.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Program.cs",
+              "RelativeToolTip": "FinalProj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:32:39.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinalProj\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:32:15.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ECContext.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Data\\ECContext.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Data\\ECContext.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Data\\ECContext.cs",
+              "RelativeToolTip": "FinalProj\\Data\\ECContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:30:58.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250501172140_Update_Mandatories.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\Migrations\\20250501172140_Update_Mandatories.cs",
+              "RelativeDocumentMoniker": "..\\MBDRA\\FinalProj\\FinalProj\\Migrations\\20250501172140_Update_Mandatories.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\Migrations\\20250501172140_Update_Mandatories.cs",
+              "RelativeToolTip": "..\\MBDRA\\FinalProj\\FinalProj\\Migrations\\20250501172140_Update_Mandatories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:21:41.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "FinalProj\\Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:18:24.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Models\\Payment.cs",
+              "RelativeToolTip": "FinalProj\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:16:00.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Models\\Product.cs",
+              "RelativeToolTip": "FinalProj\\Models\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAWWZmZmYOwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:14:41.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Models\\Review.cs",
+              "RelativeToolTip": "FinalProj\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:07:38.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Models\\User.cs",
+              "RelativeToolTip": "FinalProj\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAA9/////8pwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:07:30.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250501170104_AddPass.cs",
+              "DocumentMoniker": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Migrations\\20250501170104_AddPass.cs",
+              "RelativeDocumentMoniker": "FinalProj\\Migrations\\20250501170104_AddPass.cs",
+              "ToolTip": "C:\\Users\\maeh_\\OneDrive\\Desktop\\FinalProj\\FinalProj\\Migrations\\20250501170104_AddPass.cs",
+              "RelativeToolTip": "FinalProj\\Migrations\\20250501170104_AddPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:01:04.929Z"
+>>>>>>> master
             }
           ]
         },

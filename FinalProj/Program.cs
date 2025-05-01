@@ -1,7 +1,19 @@
+<<<<<<< HEAD
+=======
+using FinalProj.Data;
+using Microsoft.EntityFrameworkCore;
+using System;
+
+>>>>>>> master
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+<<<<<<< HEAD
+=======
+var con = builder.Configuration.GetConnectionString("con");
+builder.Services.AddDbContext<ECContext>(options => options.UseSqlServer(con));
+>>>>>>> master
 
 var app = builder.Build();
 
