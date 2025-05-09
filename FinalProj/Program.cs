@@ -1,19 +1,13 @@
-<<<<<<< HEAD
-=======
 using FinalProj.Data;
 using Microsoft.EntityFrameworkCore;
 using System;
 
->>>>>>> master
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-<<<<<<< HEAD
-=======
 var con = builder.Configuration.GetConnectionString("con");
 builder.Services.AddDbContext<ECContext>(options => options.UseSqlServer(con));
->>>>>>> master
 
 var app = builder.Build();
 
@@ -27,15 +21,14 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseRouting();
+app.UseStaticFiles();
 
 app.UseAuthorization();
 
-app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
-    .WithStaticAssets();
-
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+    
 
 app.Run();

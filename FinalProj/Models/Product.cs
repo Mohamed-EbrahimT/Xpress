@@ -12,11 +12,7 @@ public partial class Product
     public int ProductId { get; set; }
 
     [StringLength(100)]
-<<<<<<< HEAD
-    public string? ProductName { get; set; }
-=======
     public string ProductName { get; set; } = null!;
->>>>>>> master
 
     [Column(TypeName = "decimal(10, 2)")]
     public decimal? Price { get; set; }

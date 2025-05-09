@@ -1,32 +1,40 @@
 using System.Diagnostics;
+using FinalProj.Data;
 using FinalProj.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FinalProj.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private ECContext _context;
+
+        public HomeController(ECContext context)
         {
-            _logger = logger;
+            _context = context;
         }
+
 
         public IActionResult Index()
         {
-            return View();
+            var prod = _context.Products.ToList();
+            return View(prod);
         }
-
-        public IActionResult Privacy()
+        
+        public IActionResult _Category()
         {
-            return View();
+            var cat=_context.Categories.ToList();
+            return PartialView(cat);
         }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View(); // For exception handling
         }
+
+
+
+
     }
 }

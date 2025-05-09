@@ -150,15 +150,9 @@ public partial class ECContext : DbContext
         {
             entity.HasKey(e => e.UserId).HasName("PK__User__1788CC4C71314D94");
 
-<<<<<<< HEAD
-            entity.Property(e => e.UserId).ValueGeneratedNever();
-
-            entity.HasOne(d => d.UserRole).WithMany(p => p.Users).HasConstraintName("FK__User__UserRoleId__59FA5E80");
-=======
             entity.HasOne(d => d.UserRole).WithMany(p => p.Users)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK__User__UserRoleId__59FA5E80");
->>>>>>> master
         });
 
         modelBuilder.Entity<UserRole>(entity =>
