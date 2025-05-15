@@ -36,8 +36,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/maeh_/OneDrive/Desktop/FinalProj/FinalProj/Views/Login_Signup/CreateAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5fU2lnbnVwXENyZWF0ZUFjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maeh_/OneDrive/Desktop/FinalProj/FinalProj/Views/Login_Signup/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5fU2lnbnVwXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maeh_/OneDrive/Desktop/FinalProj/FinalProj/Views/Product/ShowProductAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93UHJvZHVjdEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maeh_/OneDrive/Desktop/FinalProj/FinalProj/Views/Product/ShowProductCateg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93UHJvZHVjdENhdGVnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maeh_/OneDrive/Desktop/FinalProj/FinalProj/Views/Product/ShowProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93UHJvZHVjdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maeh_/OneDrive/Desktop/FinalProj/FinalProj/Views/Shared/Components/Category/Cat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlcQ2F0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maeh_/OneDrive/Desktop/FinalProj/FinalProj/Views/Shared/Components/Category/Cat_Pic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlcQ2F0X1BpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/maeh_/OneDrive/Desktop/FinalProj/FinalProj/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maeh_/OneDrive/Desktop/FinalProj/FinalProj/Views/Shared/_LayoutShop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRTaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maeh_/OneDrive/Desktop/FinalProj/FinalProj/Views/Shared/_LoginSignup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblNpZ251cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/maeh_/OneDrive/Desktop/FinalProj/FinalProj/Views/Shared/_ValidationScriptsPartial.cshtml]

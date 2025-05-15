@@ -43,14 +43,17 @@
 						vehicula elementum sed sit amet dui. Sed porttitor lectus nibh. Vestibulum ac diam sit amet
 						quam vehicula elementum sed sit amet dui. Proin eget tortor risus.
 					</p>
-					<div class="product__details__quantity">
-						<div class="quantity">
-							<div class="pro-qty">
-								<input type="text" value="1">
+					<form action="/Cart/AddToCart" method="post">
+						<input type="hidden" name="productId" value="@Model.productDetailed.ProductId" />
+						<div class="product__details__quantity">
+							<div class="quantity">
+								<div class="pro-qty">
+									<input type="text" name="quantity" value="1" id="quantityInput">
+								</div>
 							</div>
 						</div>
-					</div>
-					<a href="#" class="primary-btn">ADD TO CARD</a>
+						<button type="submit" class="primary-btn">ADD TO CART</button>
+					</form>
 					<a href="#" class="heart-icon"><span class="icon_heart_alt"></span></a>
 					<ul>
 						<li>

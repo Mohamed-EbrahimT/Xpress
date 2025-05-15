@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\FinalProj.csproj": {}
+    "C:\\Users\\maeh_\\OneDrive\\Desktop\\New folder\\FinalProj\\FinalProj\\FinalProj\\FinalProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\FinalProj.csproj": {
+    "C:\\Users\\maeh_\\OneDrive\\Desktop\\New folder\\FinalProj\\FinalProj\\FinalProj\\FinalProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\FinalProj.csproj",
+        "projectUniqueName": "C:\\Users\\maeh_\\OneDrive\\Desktop\\New folder\\FinalProj\\FinalProj\\FinalProj\\FinalProj.csproj",
         "projectName": "FinalProj",
-        "projectPath": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\FinalProj.csproj",
+        "projectPath": "C:\\Users\\maeh_\\OneDrive\\Desktop\\New folder\\FinalProj\\FinalProj\\FinalProj\\FinalProj.csproj",
         "packagesPath": "C:\\Users\\maeh_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maeh_\\OneDrive\\Desktop\\MBDRA\\FinalProj\\FinalProj\\obj\\",
+        "outputPath": "C:\\Users\\maeh_\\OneDrive\\Desktop\\New folder\\FinalProj\\FinalProj\\FinalProj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

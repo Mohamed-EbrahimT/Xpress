@@ -16,8 +16,7 @@ namespace FinalProj.Controllers
             _context = context;
         }
 
-
-        public IActionResult Index()
+        public IActionResult Index() //L
         {
             var prod = _context.Products.ToList();
             return View(prod);
@@ -32,8 +31,6 @@ namespace FinalProj.Controllers
         {
             return View(); // For exception handling
         }
-
-
 
 
     }

@@ -79,7 +79,11 @@ namespace FinalProj.Controllers
                 var check = _contxet.Users.FirstOrDefault(m => m.Email == log.Email && m.Password == log.Password);
                 if (check != null)
                 {
-                    return RedirectToAction(nameof(Index));
+                    HttpContext.Session.SetInt32("UserId", check.UserId);
+                    HttpContext.Session.SetString("UserEmail", check.Email);
+
+                    return RedirectToAction("Index", "Home");
+
                 }
                 else
                 {
@@ -89,6 +93,13 @@ namespace FinalProj.Controllers
             }
             return View(log);
         }
+
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear();
+            return RedirectToAction("Index", "Home");
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
